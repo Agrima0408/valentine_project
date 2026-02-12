@@ -42,7 +42,7 @@ noBtn.addEventListener("mouseover", () => {
     text = "Okay now you're testing my patience 😭";
   } 
   else if (attempt === 7) {
-    text = "This is getting personal Drishti.";
+    text = "This is getting personal.";
   } 
   else if (attempt >= 8) {
     text = "Fine. I'm removing the NO option. 😈";
@@ -58,3 +58,4 @@ noBtn.addEventListener("mouseover", () => {
     message.style.opacity = 0;
   }, 2500);
 });
+
